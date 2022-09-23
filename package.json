@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Santhosh Puvaneswaran",
 	"keywords": ["freecodecamp","fun-project", "boiler"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
