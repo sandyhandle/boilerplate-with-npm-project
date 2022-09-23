@@ -11,6 +11,7 @@
 	"engines": {
 		"node": "16.13.2"
 	},
+	"description": "A project that does something awesome",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
